@@ -1,0 +1,25 @@
+
+
+body {
+	text-align: center;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	size: 5px;
+	color: solid black;
+	
+}
+h1 {
+	text-transform: uppercase;
+}
+
+
+img {
+	border: 1px solid black;
+	float: right;
+	margin: 20px;
+    width: 20%;
+}
+
+body {
+	background-color: lightgray
+}
